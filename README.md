@@ -5,5 +5,5 @@ https://www.bigkinds.or.kr/v2/news/search.do;Bigkinds=0600AAA7A9B6F8469013322C71
 HN 참조:
 https://humboldt-wi.github.io/blog/research/information_systems_1819/group5_han/
 
-MAC Konlpy 설치:
+MAC os Konlpy 설치:
 https://nogadaworks.tistory.com/193
